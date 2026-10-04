@@ -1,0 +1,20 @@
+{
+  "enabled": true,
+  "trigger": "x1",
+  "key_hotkey": "",
+  "button": "x1",
+  "second_button_action": "none",
+  "engine": "sapi",
+  "sapi_voice": "",
+  "winrt_voice": "",
+  "rate": 40,
+  "volume": 100,
+  "device_name": "default",
+  "overlay": true,
+  "autostart": false,
+  "max_read_chars": 1500,
+  "ocr_grab_w": 640,
+  "ocr_grab_h": 260,
+  "ocr_scale": 2,
+  "ocr_lang": "auto"
+}

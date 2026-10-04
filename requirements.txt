@@ -1,0 +1,16 @@
+pynput>=1.7.6
+comtypes>=1.4.0
+sounddevice>=0.4.6
+soundfile>=0.12.1
+numpy>=1.24
+edge-tts>=6.1.9
+pystray>=0.19.5
+Pillow>=10.0
+winrt-runtime
+winrt-Windows.Foundation
+winrt-Windows.Foundation.Collections
+winrt-Windows.Globalization
+winrt-Windows.Graphics.Imaging
+winrt-Windows.Storage.Streams
+winrt-Windows.Media.Ocr
+winrt-Windows.Media.SpeechSynthesis
